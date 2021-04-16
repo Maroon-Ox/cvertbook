@@ -1,4 +1,16 @@
 *.gz
 *.ttf
 *.subtoc
-*.aux
+*.auxjin-gang-jing.log
+shi-ji.log
+jin-gang-jing.out
+*.to
+shi-ji.toc
+cverttest-xelatex.pdf
+jin-gang-jing.pdf
+shi-ji.pdf
+二十四史.pdf
+史記.pdf
+jin-gang-jing.aux
+shi-ji.aux
+jin-gang-jing.log
