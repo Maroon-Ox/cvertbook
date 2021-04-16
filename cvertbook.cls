@@ -100,7 +100,6 @@
 \AtBeginDocument{\CJKmove \sloppy}
 
 
-
 % -- 中文化编号
 \newif\if@inmain
 \@inmainfalse
